@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          TQ CRON TESTING
+          TQ CRON NOw
         </a>
       </header>
     </div>
