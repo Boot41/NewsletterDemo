@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          TQ CRON Test Update
+          Learn React
         </a>
       </header>
     </div>
